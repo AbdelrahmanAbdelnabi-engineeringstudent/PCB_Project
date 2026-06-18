@@ -22,4 +22,4 @@ Designed a two-layer FR4 breakout board for the LIS3DH 3-axis accelerometer usin
 - Report.pdf
 
 ## Outcome
-Successfully designed and prepared a PCB for manufacturing.
+Completed a manufacturable PCB design including schematic, layout, BOM, Gerber files, and verification documentation.
