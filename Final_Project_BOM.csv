@@ -1,0 +1,7 @@
+Reference,Qty,Value,Footprint,Description,MPNs
+C1,1,10uF,Capacitor_SMD:C_0805_2012Metric,Unpolarized capacitor,0805X106K100CT
+C2,1,100nF,Capacitor_SMD:C_0805_2012Metric,Unpolarized capacitor, C0805C104K5RACTU
+J1,1,Conn_01x06,Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",
+"R1,R2,R3",3,10kOhm,Resistor_SMD:R_0805_2012Metric,Resistor,CR0805K010-1
+TP1,1,+3.3V,,test point,
+U1,1,LIS3DH,Package_LGA:LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y,"3-Axis Accelerometer, 2/4/8/16g range, I2C/SPI interface, LGA-16",LIS3DHTR
