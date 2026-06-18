@@ -4,7 +4,7 @@
 Designed a two-layer FR4 breakout board for the LIS3DH 3-axis accelerometer using KiCad 10.
 
 ## Software
-- KiCad
+- KiCad 10.0
 
 ## Features
 - Custom schematic
@@ -13,13 +13,13 @@ Designed a two-layer FR4 breakout board for the LIS3DH 3-axis accelerometer usin
 - 3D visualization
 
 ## Files
-- Schematic.png
-- PCB_Layout.png
-- 3D_View.png
-- PCB_Top.png
-- PCB_Bottom.png
-- Gerbers/
-- Report.pdf
+- Datasheet analysis
+- Schematic design
+- PCB layout
+- ERC verification
+- DRC verification
+- BOM generation
+- Gerber generation
 
 ## Outcome
 Completed a manufacturable PCB design including schematic, layout, BOM, Gerber files, and verification documentation.
